@@ -1,0 +1,17 @@
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\bin\Debug\net6.0-windows\Lab02.exe
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\bin\Debug\net6.0-windows\Lab02.deps.json
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\bin\Debug\net6.0-windows\Lab02.runtimeconfig.json
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\bin\Debug\net6.0-windows\Lab02.dll
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\bin\Debug\net6.0-windows\Lab02.pdb
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.AssemblyReference.cache
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.Form1.resources
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.GenerateResource.cache
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.AssemblyInfoInputs.cache
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.AssemblyInfo.cs
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.CoreCompileInputs.cache
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.dll
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\refint\Lab02.dll
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.pdb
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\Lab02.genruntimeconfig.cache
+D:\UIT\Coding\LTMCB\ThamKhao\Lab02\obj\Debug\net6.0-windows\ref\Lab02.dll
