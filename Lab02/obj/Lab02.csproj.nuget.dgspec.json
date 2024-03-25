@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UIT\\Coding\\LTMCB\\ThamKhao\\Lab02\\Lab02.csproj": {}
+    "D:\\UIT\\Coding\\LTMCB\\ThamKhao-PhanTrungPhat\\Lab02\\Lab02.csproj": {}
   },
   "projects": {
-    "D:\\UIT\\Coding\\LTMCB\\ThamKhao\\Lab02\\Lab02.csproj": {
+    "D:\\UIT\\Coding\\LTMCB\\ThamKhao-PhanTrungPhat\\Lab02\\Lab02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UIT\\Coding\\LTMCB\\ThamKhao\\Lab02\\Lab02.csproj",
+        "projectUniqueName": "D:\\UIT\\Coding\\LTMCB\\ThamKhao-PhanTrungPhat\\Lab02\\Lab02.csproj",
         "projectName": "Lab02",
-        "projectPath": "D:\\UIT\\Coding\\LTMCB\\ThamKhao\\Lab02\\Lab02.csproj",
+        "projectPath": "D:\\UIT\\Coding\\LTMCB\\ThamKhao-PhanTrungPhat\\Lab02\\Lab02.csproj",
         "packagesPath": "C:\\Users\\phatp\\.nuget\\packages\\",
-        "outputPath": "D:\\UIT\\Coding\\LTMCB\\ThamKhao\\Lab02\\obj\\",
+        "outputPath": "D:\\UIT\\Coding\\LTMCB\\ThamKhao-PhanTrungPhat\\Lab02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phatp\\AppData\\Roaming\\NuGet\\NuGet.Config",
